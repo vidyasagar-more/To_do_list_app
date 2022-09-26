@@ -1,0 +1,22 @@
+body {
+    background-image:
+        linear-gradient(rgba(23, 24, 34, 0.600),
+            rgba(23, 24, 34, 0.600)),
+        url('../images/water-orange.jpg');
+}
+
+.title-head {
+    color: yellow;
+}
+
+.desc-head {
+    color: yellow;
+}
+
+.del-head {
+    color: yellow;
+}
+
+hr {
+    border-top: 1px solid red;
+}
